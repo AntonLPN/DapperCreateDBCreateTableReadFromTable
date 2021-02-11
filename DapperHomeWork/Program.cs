@@ -31,11 +31,6 @@ namespace DapperHomeWork
     }
 
 
-
-
-
-
-
     class Program
     {
        
